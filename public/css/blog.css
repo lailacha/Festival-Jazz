@@ -1,0 +1,40 @@
+.titre-acc {
+    color: #F27979;
+
+}
+
+.color-pink {
+    background-color: #F27979;
+}
+
+.color-pink-txt {
+    color: #F27979;
+}
+
+.color-dark {
+    background-color: #4C5169;
+}
+
+body {
+    background-color: #E8E7D2;
+}
+
+main h3 {
+    margin-top: 2rem;
+    color: white;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    padding: 2px;
+}
+
+#citation {
+    background-color: azure;
+    color: black;
+
+
+}
+
+#pres {
+    font-family: 'Playfair Display',
+        serif;
+}
